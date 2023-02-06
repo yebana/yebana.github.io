@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on paco castillo</title>
-    <link>https://hugo.k8.cloudns.nz/tags/development/</link>
+    <link>https://yebana.github.io/tags/development/</link>
     <description>Recent content in development on paco castillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo.k8.cloudns.nz/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yebana.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>External Page: Hugo Coder Wiki</title>
-      <link>https://hugo.k8.cloudns.nz/posts/hugo-coder-wiki/</link>
+      <link>https://yebana.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.k8.cloudns.nz/posts/hugo-coder-wiki/</guid>
+      <guid>https://yebana.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     

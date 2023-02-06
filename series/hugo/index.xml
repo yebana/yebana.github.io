@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on paco castillo</title>
-    <link>https://hugo.k8.cloudns.nz/series/hugo/</link>
+    <link>https://yebana.github.io/series/hugo/</link>
     <description>Recent content in Hugo on paco castillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo.k8.cloudns.nz/series/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yebana.github.io/series/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mermaid JS support</title>
-      <link>https://hugo.k8.cloudns.nz/posts/mermaid-support/</link>
+      <link>https://yebana.github.io/posts/mermaid-support/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.k8.cloudns.nz/posts/mermaid-support/</guid>
+      <guid>https://yebana.github.io/posts/mermaid-support/</guid>
       <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
 flowchart LR A -- B B -- A C -- D D -- B  sequenceDiagram participant Alice participant Bob Alice-Bob: Hi Bob Bob-Alice: Hi Alice  Find more example on Mermaid-JS website.</description>
     </item>

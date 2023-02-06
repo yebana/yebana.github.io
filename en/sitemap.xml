@@ -2,382 +2,382 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo.k8.cloudns.nz/series/hugo/</loc>
+    <loc>https://yebana.github.io/series/hugo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/mermaid-support/</loc>
+    <loc>https://yebana.github.io/posts/mermaid-support/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo.k8.cloudns.nz/"
-                />
-  </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/</loc>
+    <loc>https://yebana.github.io/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/"
+                href="https://yebana.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/"
+                href="https://yebana.github.io/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/series/</loc>
+    <loc>https://yebana.github.io/posts/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/series/"
+                href="https://yebana.github.io/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/series/"
+                href="https://yebana.github.io/posts/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/series/theme/</loc>
+    <loc>https://yebana.github.io/series/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yebana.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yebana.github.io/series/"
+                />
+  </url><url>
+    <loc>https://yebana.github.io/series/theme/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/categories/</loc>
+    <loc>https://yebana.github.io/categories/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/categories/"
+                href="https://yebana.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/categories/"
+                href="https://yebana.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/css/</loc>
+    <loc>https://yebana.github.io/tags/css/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/css/"
+                href="https://yebana.github.io/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/css/"
+                href="https://yebana.github.io/tags/css/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/html/</loc>
+    <loc>https://yebana.github.io/tags/html/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/html/"
+                href="https://yebana.github.io/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/html/"
+                href="https://yebana.github.io/tags/html/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/html-and-css-only-tabs/</loc>
+    <loc>https://yebana.github.io/posts/html-and-css-only-tabs/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/markdown/</loc>
+    <loc>https://yebana.github.io/tags/markdown/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/markdown/"
+                href="https://yebana.github.io/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/markdown/"
+                href="https://yebana.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/categories/syntax/</loc>
+    <loc>https://yebana.github.io/categories/syntax/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/</loc>
+    <loc>https://yebana.github.io/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/"
+                href="https://yebana.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/"
+                href="https://yebana.github.io/tags/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/categories/themes/</loc>
+    <loc>https://yebana.github.io/categories/themes/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/series/themes-guide/</loc>
+    <loc>https://yebana.github.io/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/hello/</loc>
+    <loc>https://yebana.github.io/posts/hello/</loc>
     <lastmod>2021-12-01T22:50:26+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/markdown-syntax/</loc>
+    <loc>https://yebana.github.io/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/markdown-syntax/"
+                href="https://yebana.github.io/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/markdown-syntax/"
+                href="https://yebana.github.io/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/privacy/</loc>
+    <loc>https://yebana.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/privacy/"
+                href="https://yebana.github.io/pt-br/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/privacy/"
+                href="https://yebana.github.io/tags/privacy/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/rich-content/</loc>
+    <loc>https://yebana.github.io/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/rich-content/"
+                href="https://yebana.github.io/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/rich-content/"
+                href="https://yebana.github.io/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/shortcodes/</loc>
+    <loc>https://yebana.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/shortcodes/"
+                href="https://yebana.github.io/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/shortcodes/"
+                href="https://yebana.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/more-rich-content/</loc>
+    <loc>https://yebana.github.io/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/more-rich-content/"
+                href="https://yebana.github.io/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/more-rich-content/"
+                href="https://yebana.github.io/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/placeholder-text/</loc>
+    <loc>https://yebana.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/placeholder-text/"
+                href="https://yebana.github.io/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/placeholder-text/"
+                href="https://yebana.github.io/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/text/</loc>
+    <loc>https://yebana.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/text/"
+                href="https://yebana.github.io/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/text/"
+                href="https://yebana.github.io/tags/text/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/math-typesetting/</loc>
+    <loc>https://yebana.github.io/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/math-typesetting/"
+                href="https://yebana.github.io/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/math-typesetting/"
+                href="https://yebana.github.io/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/emoji/</loc>
+    <loc>https://yebana.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/emoji/"
+                href="https://yebana.github.io/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/emoji/"
+                href="https://yebana.github.io/tags/emoji/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/emoji-support/</loc>
+    <loc>https://yebana.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/emoji-support/"
+                href="https://yebana.github.io/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/emoji-support/"
+                href="https://yebana.github.io/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/categories/development/</loc>
+    <loc>https://yebana.github.io/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/categories/development/"
+                href="https://yebana.github.io/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/categories/development/"
+                href="https://yebana.github.io/categories/development/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/development/</loc>
+    <loc>https://yebana.github.io/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/development/"
+                href="https://yebana.github.io/pt-br/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/development/"
+                href="https://yebana.github.io/tags/development/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/posts/hugo-coder-wiki/</loc>
+    <loc>https://yebana.github.io/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/posts/hugo-coder-wiki/"
+                href="https://yebana.github.io/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/posts/hugo-coder-wiki/"
+                href="https://yebana.github.io/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/hugo/</loc>
+    <loc>https://yebana.github.io/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/hugo/"
+                href="https://yebana.github.io/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/hugo/"
+                href="https://yebana.github.io/tags/hugo/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/tags/themes/</loc>
+    <loc>https://yebana.github.io/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/tags/themes/"
+                href="https://yebana.github.io/pt-br/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/tags/themes/"
+                href="https://yebana.github.io/tags/themes/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/about_o/</loc>
+    <loc>https://yebana.github.io/about_o/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/about/</loc>
+    <loc>https://yebana.github.io/about/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/about/"
+                href="https://yebana.github.io/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/about/"
+                href="https://yebana.github.io/about/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/about_old/</loc>
+    <loc>https://yebana.github.io/about_old/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/authors/</loc>
+    <loc>https://yebana.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/authors/"
+                href="https://yebana.github.io/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/authors/"
+                href="https://yebana.github.io/authors/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/contact/</loc>
+    <loc>https://yebana.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/contact/"
+                href="https://yebana.github.io/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/contact/"
+                href="https://yebana.github.io/contact/"
                 />
   </url><url>
-    <loc>https://hugo.k8.cloudns.nz/projects/</loc>
+    <loc>https://yebana.github.io/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hugo.k8.cloudns.nz/pt-br/projects/"
+                href="https://yebana.github.io/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo.k8.cloudns.nz/projects/"
+                href="https://yebana.github.io/projects/"
                 />
   </url>
 </urlset>
