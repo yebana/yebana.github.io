@@ -1,3 +1,6 @@
 media: images
 content:
-  - path: posts
+  - name: posts
+    label: Posts
+    type: collection
+    path: posts 
